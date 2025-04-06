@@ -19,3 +19,13 @@ This is a simple recommendation engine that suggests SHL assessments based on a 
 - TF-IDF Vectorization
 
 ## 📁 Project Structure
+shl_assessment_recommendation/<br>
+├── app/<br>
+│   ├── recommender.py<br>
+│   └── utils.py<br>
+├── data/<br>
+│   └── shl_product_catalog.csv<br>
+├── main.py<br>
+├── requirements.txt<br>
+└── README.md<br>
+
