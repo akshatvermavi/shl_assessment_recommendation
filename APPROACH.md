@@ -1,4 +1,4 @@
-echo "# SHL Assessment Recommendation Engine Approach
+# SHL Assessment Recommendation Engine Approach
 
 ## Objective
 
