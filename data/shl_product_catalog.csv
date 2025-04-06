@@ -1,0 +1,11 @@
+AssessmentID,AssessmentName,Description,Tags
+A001,Cognitive Ability Test,"Measures logical, numerical, and verbal reasoning","cognitive, analytical, logic"
+A002,Personality Questionnaire,"Assesses personality traits like openness, agreeableness","personality, traits"
+A003,Sales Assessment,"Assesses persuasion, communication, resilience","sales, communication"
+A004,Developer Role Assessment,"Tests coding, debugging, and technical problem solving","coding, developer, tech"
+A005,Leadership Potential Assessment,Identifies leadership potential in individuals,"leadership, management"
+A006,Customer Service Aptitude Test,"Evaluates patience, empathy, and problem-solving for customer-facing roles","customer service, empathy"
+A007,Data Analysis Test,Assesses ability to interpret and analyze data,"data, analytics, logic"
+A008,Verbal Reasoning Test,Tests understanding and interpretation of written content,"verbal, comprehension"
+A009,Project Management Test,"Assesses planning, risk management, and execution skills","project management, planning"
+A010,Finance Aptitude Test,Measures understanding of financial concepts and numeracy,"finance, accounting, numbers"
