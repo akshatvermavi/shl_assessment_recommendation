@@ -63,6 +63,7 @@ Example:
 
 ## Example Output
 
+```json
   {
     \"AssessmentName\": \"Developer Role Assessment\",
     \"Description\": \"Tests coding, debugging, and technical problem solving\"
@@ -75,5 +76,5 @@ Example:
     \"AssessmentName\": \"Project Management Test\",
     \"Description\": \"Assesses planning, risk management, and execution skills\"
   }
-
+```
 " > APPROACH.md
