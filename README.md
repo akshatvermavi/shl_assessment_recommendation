@@ -20,15 +20,15 @@ This is a simple recommendation engine that suggests SHL assessments based on a 
 
 ## 📁 Project Structure
 
-shl_assessment_recommendation/`<br>`
-├── app/`<br>`
-│   ├── recommender.py`<br>`
-│   └── utils.py`<br>`
-├── data/`<br>`
-│   └── shl_product_catalog.csv`<br>`
-├── main.py`<br>`
-├── requirements.txt`<br>`
-└── README.md`<br>`
+shl_assessment_recommendation/<br>
+├── app/<br>
+│   ├── recommender.py<br>
+│   └── utils.py<br>
+├── data/<br>
+│   └── shl_product_catalog.csv<br>
+├── main.py<br>
+├── requirements.txt<br>
+└── README.md<br>
 
 
 # SHL Assessment Recommendation Engine Approach
@@ -59,12 +59,10 @@ Build an API that takes a job role or description as a query and returns relevan
 - Query Parameter: `?query=your_search_term`
 
 Example:
-\`GET https://shl-assessment-recommendation-1.onrender.com/recommend?query=backend%20developer%20with%20coding%20skills\`
+- GET https://shl-assessment-recommendation-1.onrender.com/recommend?query=backend%20developer%20with%20coding%20skills\`
 
 ## Example Output
 
-\`\`\`json
-[
   {
     \"AssessmentName\": \"Developer Role Assessment\",
     \"Description\": \"Tests coding, debugging, and technical problem solving\"
@@ -77,6 +75,5 @@ Example:
     \"AssessmentName\": \"Project Management Test\",
     \"Description\": \"Assesses planning, risk management, and execution skills\"
   }
-]
-\`\`\`
+
 " > APPROACH.md
